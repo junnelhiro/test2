@@ -1,5 +1,5 @@
 testing
 another line
-
+added
 
 my line
